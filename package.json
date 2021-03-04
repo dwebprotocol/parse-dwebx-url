@@ -1,24 +1,24 @@
 {
-  "name": "parse-dat-url",
-  "version": "3.0.3",
-  "description": "Node's url.parse() but updated to support versioned dat URLs.",
+  "name": "parse-dwebx-url",
+  "version": "1.0.0",
+  "description": "Node's url.parse() updated to support versioned dweb:// URLs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pfrazee/parse-dat-url.git"
+    "url": "https://github.com/dwebprotocol/parse-dwebx-url.git"
   },
   "keywords": [
-    "dat",
+    "dweb",
     "url",
     "parse"
   ],
-  "author": "Paul Frazee <pfraee@gmail.com>",
+  "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pfrazee/parse-dat-url/issues"
+    "url": "https://github.com/dwebprotocol/parse-dwebx-url/issues"
   },
-  "homepage": "https://github.com/pfrazee/parse-dat-url#readme"
+  "homepage": "https://dwebx.org"
 }
